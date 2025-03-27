@@ -1,6 +1,4 @@
-  "This repository contains all my certifications in Business Analysis, Data Visualization, SQL, Python, and Agile Scrum."
-
-  **[Data Visualization in Tableau & Power BI (Udemy)]( file://D:\\SRI LALITHA\CERTIFICATES\UDEMY CERTIFICATES\DATA VISULIZATION IN TABLEAU AND POWER BI.pdf)**
+ **[Data Visualization in Tableau & Power BI (Udemy)]( file://D:\\SRI LALITHA\CERTIFICATES\UDEMY CERTIFICATES\DATA VISULIZATION IN TABLEAU AND POWER BI.pdf)**
 - Learned how to create interactive dashboards, use DAX functions, perform ETL operations, and apply best practices in data visualization.  
   **[Microsoft Excel Crash Course for Business Analysts (Udemy)](file://D:\\SRI LALITHA\CERTIFICATES\UDEMY CERTIFICATES\MICROSOFT EXCEL CRASH COURSE FOR BUSINESS ANALYSTS.pdf )**
 - Gained expertise in advanced Excel functions, pivot tables, data cleaning, and automation using macros for business reporting.  
