@@ -1,4 +1,4 @@
- **[Data Visualization in Tableau & Power BI (Udemy)]**
+- **[Data Visualization in Tableau & Power BI (Udemy)]**
 - Learned how to create interactive dashboards, use DAX functions, perform ETL operations, and apply best practices in data visualization.
 
 - **[Microsoft Excel Crash Course for Business Analysts (Udemy)]**
